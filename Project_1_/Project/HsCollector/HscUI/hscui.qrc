@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/qss/black.qss</file>
+        <file>resource/qss/blue.qss</file>
+        <file>resource/qss/gray.qss</file>
+        <file>resource/qss/hsui.qss</file>
+        <file>resource/qss/hsuiblack.qss</file>
+        <file>resource/qss/hsuiblue.qss</file>
+        <file>resource/qss/hsuigreen.qss</file>
+        <file>resource/qss/hsuipink.qss</file>
+        <file>resource/qss/hsuiwhite.qss</file>
+        <file>resource/qss/newStyle.qss</file>
+        <file>resource/qss/white.qss</file>
+        <file>resource/icon/curve.png</file>
+        <file>resource/icon/blank.png</file>
+        <file>resource/icon/mainicon.png</file>
+        <file>resource/qss/psblack.qss</file>
+        <file>resource/icon/chechuang.png</file>
+        <file>resource/icon/data-Inquire.png</file>
+        <file>resource/icon/tubiao-zhexiantu.png</file>
+        <file>resource/icon/yuanchengxiezhu.png</file>
+        <file>resource/icon/danyoubiao.png</file>
+        <file>resource/icon/xunhuanbofang.png</file>
+        <file>resource/icon/xunhuanjianting.png</file>
+        <file>resource/icon/xunhuanjiantingred.png</file>
+        <file>resource/icon/baocuntiaojian.png</file>
+        <file>resource/icon/fangda.png</file>
+        <file>resource/icon/fangdared.png</file>
+        <file>resource/icon/export2.png</file>
+        <file>resource/icon/history.png</file>
+        <file>resource/icon/static.png</file>
+    </qresource>
+</RCC>

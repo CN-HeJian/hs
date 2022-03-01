@@ -1,0 +1,68 @@
+
+QToolButton
+{
+
+border: 2px solid rgb(255,255,255);
+
+background-image: url(:/resource/icon/yuanchengxiezhu.png)
+}
+QToolButton:hover{  /*鼠标放上后*/
+
+border: 3px solid rgb(255,255,255);
+
+background-image: url(:/resource/icon/yuanchengxiezhu.png)
+}
+
+
+-----------------------------------------------------------------------
+QToolButton
+{
+
+border: 2px solid rgb(255,255,255);
+
+
+background-image: url(:/resource/icon/chechuang.png)
+}
+QToolButton:hover{  /*鼠标放上后*/
+
+border: 3px solid rgb(255,255,255);
+
+background-image: url(:/resource/icon/chechuang.png)
+}
+
+-----------------------------------------------------------------------
+
+
+QToolButton
+{
+
+border: 2px solid rgb(255,255,255);
+
+
+
+background-image: url(:/resource/icon/data-Inquire.png)
+}
+QToolButton:hover{  /*鼠标放上后*/
+
+border: 3px solid rgb(255,255,255);
+
+background-image: url(:/resource/icon/data-Inquire.png)
+}
+
+-----------------------------------------------------
+
+
+QToolButton
+{
+
+border: 2px solid rgb(255,255,255);
+
+
+background-image: url(:/resource/icon/tubiao-zhexiantu.png)
+}
+QToolButton:hover{  /*鼠标放上后*/
+
+border: 3px solid rgb(255,255,255);
+
+background-image: url(:/resource/icon/tubiao-zhexiantu.png)
+}
